@@ -1,0 +1,124 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 1,
+    "start": "2021-10-23T01:23:37.270Z",
+    "end": "2021-10-23T01:23:37.648Z",
+    "duration": 378
+  },
+  "tests": [
+    {
+      "title": "calls alert with each element passed",
+      "fullTitle": "index.js myEach calls alert with each element passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls alert properly on object values",
+      "fullTitle": "index.js myEach calls alert properly on object values",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the original collection",
+      "fullTitle": "index.js myEach returns the original collection",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "successfully returns a correctly populated array",
+      "fullTitle": "index.js myMap successfully returns a correctly populated array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js myMap does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "successfully returns a correctly populated array from modified object values",
+      "fullTitle": "index.js myMap successfully returns a correctly populated array from modified object values",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original object",
+      "fullTitle": "index.js myMap does not modify the original object",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "returns the correct reduced value when passed an initial value",
+      "fullTitle": "index.js myReduce returns the correct reduced value when passed an initial value",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "passes": [
+    {
+      "title": "calls alert with each element passed",
+      "fullTitle": "index.js myEach calls alert with each element passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls alert properly on object values",
+      "fullTitle": "index.js myEach calls alert properly on object values",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the original collection",
+      "fullTitle": "index.js myEach returns the original collection",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "successfully returns a correctly populated array",
+      "fullTitle": "index.js myMap successfully returns a correctly populated array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js myMap does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "successfully returns a correctly populated array from modified object values",
+      "fullTitle": "index.js myMap successfully returns a correctly populated array from modified object values",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original object",
+      "fullTitle": "index.js myMap does not modify the original object",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
